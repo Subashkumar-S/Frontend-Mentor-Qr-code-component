@@ -1,3 +1,3 @@
 [submodule "Frontend-Mentor-Qr-code-component"]
 	path = Frontend-Mentor-Qr-code-component
-	url = https://github.com/Subashkumar-S/Frontend-Mentor-Qr-code-component.git
+	url = git:https://github.com/Subashkumar-S/Frontend-Mentor-Qr-code-component.git
