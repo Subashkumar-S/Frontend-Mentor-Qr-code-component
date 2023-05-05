@@ -22,12 +22,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](Screenshot/desktop_view.png)
+![](Screenshot/mobile_view.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Subashkumar-S/Frontend-Mentor-Qr-code-component)
+- Live Site URL: [Add live site URL here](https://subashkumar-s.github.io/Frontend-Mentor-Qr-code-component/)
 
 ## My process
 
@@ -89,6 +89,6 @@ To practice more CSS layout and check how they work helps me continue focusing o
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+This video helps me to learn how to host a static website using github. (https://www.youtube.com/watch?v=hJ8XAu0-SlA)
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
